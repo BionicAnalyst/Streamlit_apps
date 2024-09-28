@@ -86,4 +86,4 @@ urllib3==2.2.2
 validators==0.33.0
 watchdog==4.0.2
 zope.interface==7.0.1
-streamlit-option-menu=0.3.13
+streamlit-option-menu==0.3.13
